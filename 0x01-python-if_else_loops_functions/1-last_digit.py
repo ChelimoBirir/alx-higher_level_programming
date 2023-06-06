@@ -3,7 +3,7 @@ import random
 number = random.randint(-10000, 10000)
 if (number >= -9) and (number <= 9):
     print("Last digit of {} is {} and is {}"
-          .format(number, number, number), end=' ')
+          .format(number, number, number))
 else:
     last_digit = number - (10 * int(number / 10))
     print("Last digit of {} is {}".format(number, last_digit), end=' ')
