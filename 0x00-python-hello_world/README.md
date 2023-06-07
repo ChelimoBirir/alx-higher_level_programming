@@ -48,7 +48,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
-10-linked_lists.c
+10-linked_lists.c, lists.h
 Technical interview preparation:
 A function in C that checks if a singly linked list has a cycle in it.
 
