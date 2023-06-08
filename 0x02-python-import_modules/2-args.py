@@ -12,6 +12,6 @@ if __name__ == '__main__':
         plural = "s" if num_arguments > 1 else ""
 
         print("{} argument{}:".format(num_arguments, plural))
-    
+
         for i, arg in enumerate(arguments):
             print("{}: {}".format(i + 1, arg))
