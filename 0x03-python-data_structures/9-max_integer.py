@@ -12,6 +12,8 @@ def max_integer(my_list=[]):
             large = i
 
     return (large)
+
+
 '''
 Write a function that finds the biggest integer of a list.
 
