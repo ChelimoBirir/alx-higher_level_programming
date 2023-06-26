@@ -12,4 +12,4 @@ The repository contains:
 3. 0x01-python-if_else_loops_functions - a directory for exercises in if-else statements, loops and functions in Python
 4. 0x02-python-import_modules - a directory for exercises in importing modules and functions in Python.
 5. 0x03-python-data_structures - a directory for exercises in data structs in Python
-
+6. 0x04-python-more_data_structures - a directory for exercises in data structures in python
